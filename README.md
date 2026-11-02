@@ -36,11 +36,11 @@
 
 ## 담당 WBS
 
-[통합 WBS의 WP-TP-DB 작업](https://github.com/2026-2-web-programming-term-project/.github/blob/main/docs/WBS.md#wp-tp-db)에서 담당 범위를 관리합니다.
+[GitHub Projects의 저장소별 WBS](https://github.com/orgs/2026-2-web-programming-term-project/projects/1/views/4)에서 `WP-TP-DB` 그룹을 확인합니다.
 
 DB-01–04: DB 선택·스키마·마이그레이션·정합성·인덱스·복구
 
-선행 관계·기간·완료 기준·상태는 통합 문서를 기준으로 갱신합니다. [공통 인프라](https://github.com/2026-2-web-programming-term-project/.github/blob/main/docs/WBS.md#infrastructure)와 [통합 검증](https://github.com/2026-2-web-programming-term-project/.github/blob/main/docs/WBS.md#integration)도 함께 확인합니다.
+선행 관계·기간·완료 기준·상태는 GitHub Projects의 작업 카드에서 갱신합니다. [공통 인프라](https://github.com/orgs/2026-2-web-programming-term-project/projects/1)와 [통합 검증](https://github.com/orgs/2026-2-web-programming-term-project/projects/1)도 함께 확인합니다.
 
 ## 라이선스
 
